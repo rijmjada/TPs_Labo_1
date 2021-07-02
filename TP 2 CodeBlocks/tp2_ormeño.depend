@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1621095532 source:c:\users\administrador\desktop\tp2_ormeño\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1621045800 c:\users\administrador\desktop\tp2_ormeño\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayEmployees.h"
+
+1621095630 source:c:\users\administrador\desktop\tp2_ormeño\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"funciones.h"
+
+1621038911 c:\users\administrador\desktop\tp2_ormeño\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayEmployees.h"
+
+1621095025 source:c:\users\administrador\desktop\tp2_ormeño\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1621019727 c:\users\administrador\desktop\tp2_ormeño\hd.h
+

@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1624233039 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Genericas.h"
+	"Menu.h"
+
+1565993298 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\linkedlist.h
+
+1623846605 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\controller.h
+
+1624230333 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\employee.h
+
+1624234740 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Genericas.h"
+	"Menu.h"
+
+1624230333 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"Genericas.h"
+
+1624226569 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1624219827 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Genericas.h"
+
+1624219656 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\genericas.h
+
+1624029293 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\parser.h
+
+1624230333 c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\menu.h
+
+1624230333 source:c:\users\administrador\desktop\nueva carpeta\ordenar\tp#3.cascara\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624234740 source:c:\users\administrador\desktop\tp_3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Genericas.h"
+	"Menu.h"
+
+1565993298 c:\users\administrador\desktop\tp_3\linkedlist.h
+
+1624230333 c:\users\administrador\desktop\tp_3\employee.h
+
+1624029293 c:\users\administrador\desktop\tp_3\parser.h
+
+1624219656 c:\users\administrador\desktop\tp_3\genericas.h
+
+1624230333 c:\users\administrador\desktop\tp_3\menu.h
+
+1624230333 source:c:\users\administrador\desktop\tp_3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"Genericas.h"
+
+1624219827 source:c:\users\administrador\desktop\tp_3\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Genericas.h"
+
+1624233039 source:c:\users\administrador\desktop\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Genericas.h"
+	"Menu.h"
+
+1623846605 c:\users\administrador\desktop\tp_3\controller.h
+
+1624230333 source:c:\users\administrador\desktop\tp_3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624226569 source:c:\users\administrador\desktop\tp_3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1624294405 source:c:\users\administrador\desktop\tp_3(code_blocks)\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Genericas.h"
+	"Menu.h"
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\linkedlist.h
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\employee.h
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\parser.h
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\genericas.h
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\menu.h
+
+1624294605 source:c:\users\administrador\desktop\tp_3(code_blocks)\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"Genericas.h"
+
+1624294694 source:c:\users\administrador\desktop\tp_3(code_blocks)\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Genericas.h"
+
+1624294405 source:c:\users\administrador\desktop\tp_3(code_blocks)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Genericas.h"
+	"Menu.h"
+
+1624294405 c:\users\administrador\desktop\tp_3(code_blocks)\controller.h
+
+1624838544 source:c:\users\administrador\desktop\tp_3(code_blocks)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Genericas.h"
+
+1624294694 source:c:\users\administrador\desktop\tp_3(code_blocks)\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
